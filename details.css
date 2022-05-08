@@ -1,0 +1,335 @@
+a{
+  text-decoration: none;
+}
+li{
+  list-style-type: none;
+}
+ul { padding: 0; }
+.tm-m-photos, .tm-m-photos-thumb { 
+    zoom: 1; 
+}
+.tm-m-photos-thumb { 
+    margin: 10px 0; 
+    list-style-type: none; 
+    height: 85px; 
+}
+.tm-m-photos-thumb li { 
+    float: left;
+     border: 2px solid #f2f2f2;
+     padding: 2px; 
+     margin-right: 8px;
+     position: relative;
+      transition: border-color .2s ease-out;
+}
+.tm-m-photos-thumb .tm-current {
+     border: 2px solid #f23d6a; 
+     border-radius: 2px; 
+     -webkit-border-radius: 2px; 
+     -moz-border-radius: 2px; 
+     -o-border-radius: 2px; 
+     cursor: auto; 
+    }
+.tm-photos-arrow { 
+    width: 0; 
+    height: 0; 
+    line-height: 0; 
+    font-size: 0;
+    border: 6px dashed transparent; 
+    border-top: 6px solid #f23d6a;
+    position: absolute; 
+    left: 15px; 
+    filter: alpha(opacity=0); 
+    opacity: 0;
+    bottom: -12px;
+    background: 0 0; 
+}
+.tm-current .tm-photos-arrow { 
+    filter: alpha(opacity=100); 
+    opacity: 1; 
+}
+.tm-m-photos-thumb img { 
+    display: block;
+     width: 270px; 
+     height: 210px; 
+}
+
+.tm-m-photo-viewer {
+    width: 1230px;
+    position: relative;
+    height: 0; 
+    border: 1px solid #ccc; 
+    background: #fff; 
+    padding: 2px; 
+    overflow: hidden; 
+    display: none; 
+    transition: all 0.2s ease-in;
+}
+.tm-m-photo-viewer-navleft, .tm-m-photo-viewer-navright { top: 0;
+     bottom: 0; 
+     position: absolute;
+      width: 30%; 
+      background: url(http://assets.alicdn.com/s.gif); /*解决IE 下背景透明的空白元素无法触发 click 和 hover 事件*/ }
+.tm-m-photo-viewer-navleft { 
+    left: 0; 
+}
+.tm-m-photo-viewer-navright {
+     right: 0; 
+}
+.tm-m-photo-viewer-navleft i, .tm-m-photo-viewer-navright i {
+     top: 50%; 
+     margin-top:-24px;
+      position: absolute; 
+      width: 48px; 
+      height: 48px; 
+      display: none; 
+    }
+.tm-m-photo-viewer-navleft i {
+     left: 0;
+     background-image: url(../img/arrow-l.png);
+     }
+.tm-m-photo-viewer-navright i { right: 0;
+     background-image: url(../img/arrow-r.png);
+     }
+
+     .bbox1{
+        width: 1264px;
+        margin: 0 auto;
+        background-color: rgb(238, 250, 255);
+     }
+     .panel.panel-default {
+        margin-left: 60px;
+    }
+    .con {
+        width: 1263px;
+        height: 119px;
+        position: relative;
+        font-size: 20px;
+        background-color: #dae6e2;
+      }
+      .con a img{
+        width: 434px;
+        height: 135px;
+      }
+      .con p{
+        margin-left: 840px;
+        float: left;
+        margin-top: -70px;
+        font-family: '仿宋';
+        position: relative;
+      }
+      .fh{
+        margin-top: -114px;
+        float: right;
+        margin-right: 45px;
+    }
+    .fh a{
+        font-size: 18px;
+        color: #c4c4c4;
+        font-family: cursive;
+    }
+
+    .box02{
+        height: 86px;
+        margin-top: 14px;
+      }
+      .tit {
+        height: 50px;
+        line-height: 20px;
+        font-size: 20px;
+        margin-left: 54px;
+        float: left;
+    }
+      .tit a{color: #000;}
+      .tit a span{
+        color: #000;
+        font-weight: bold;
+      }
+      .price{
+        height: 30px;
+        float: left;
+        margin-left: 20px;
+      }
+      .price span{
+        font-family: "microsoft Yahei";
+        font-size: 24px;
+        color: #FF7F00;
+        margin-left: 65px;
+      }
+      .btn{
+        width: 85px;
+        height: 35px;
+        background: #ebb7c3;
+        border: 1px solid #eec1d0;
+        border-radius: 4px;
+        float: right;
+        margin-top: 15px;
+        margin-right: 95px;
+      }
+      .btn strong{
+        font-size: 18px;
+        line-height: 35px;
+        color: #FFF;
+        display: block;
+        text-align: center;
+      }
+      a {
+        text-decoration: none;
+    }
+
+
+    .dp p {
+      font-size: 25px;
+  }
+  .dp li {
+    color: red;
+    font-size: 25px;
+}
+
+li.pr {
+    color: gray;
+    font-size: 15px;
+    margin-left: 119px;
+    margin-top: -23px;
+}
+.yj a {
+    float: right;
+    color: gray;
+    margin-right: 150px;
+    margin-top: -15px;
+    text-decoration: line-through;
+    font-size: 14px;
+}
+
+.db{
+  width: 1263px;
+  height: 270px;
+  margin-top: 180px;
+  background-color: #def0ea;
+}
+
+.db .b1{
+   width: 420px;
+    height: 30px;
+    float: left;
+    margin-top: 26px;
+    margin-left: 245px;
+    font-size: 19px;
+    font-family: "宋体";
+    text-decoration: none;
+}
+.db .b1 a{
+  color: #575555;
+}
+.db .b1 a:hover{
+  color: #c25f5f;
+}
+
+.db .gy{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: 55px;
+  margin-left: -380px;
+  font-family: "仿宋";
+}
+.db .gy a{
+  color: #575555;
+}
+.db .gy a:hover{
+  color: #ce8b8b;
+}
+.db .b2{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -60px;
+  margin-left: 508px;
+  font-size: 19px;
+  font-family: "宋体";
+}
+.db .b2 a{
+  color: #575555;
+}
+.db .b2 a:hover{
+  color: #c25f5f;
+}
+.db .yh{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -32px;
+  margin-left: 515px;
+  font-family: "仿宋";
+}
+.db .yh a{
+  color: #575555;
+}
+.db .yh a:hover{
+  color: #ce8b8b;
+}
+
+.db .b3{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -60px;
+  margin-left: 712px;
+  font-size: 19px;
+  font-family: "宋体";
+}
+.db .b3 a{
+  color: #575555;
+}
+.db .b3 a:hover{
+  color: #c25f5f;
+}
+.db .cs{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -33px;
+  margin-left: 710px;
+  font-family: "仿宋";
+}
+.db .cs a{
+  color: #575555;
+}
+.db .cs a:hover{
+  color: #ce8b8b;
+}
+.db .b4{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -60px;
+  margin-left: 900px;
+  font-size: 19px;
+  font-family: "宋体";
+}
+.db .b4 a{
+  color: #575555;
+}
+.db .b4 a:hover{
+  color: #c25f5f;
+}
+.db .mj{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -33px;
+  margin-left: 905px;
+  font-family: "仿宋";
+}
+.db .mj a{
+  color: #575555;
+}
+.db .mj a:hover{
+  color: #ce8b8b;
+}
+.db p{
+  float: left;
+  margin-top: 120px;
+  margin-left:337px;
+  font-size: 17px;
+  color: #3e3e3e;
+} 

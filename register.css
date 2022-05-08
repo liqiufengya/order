@@ -1,0 +1,230 @@
+.bbox1{
+  width: 1264px;
+  margin: 0 auto;
+}
+.con {
+    width: 1263px;
+    height: 119px;
+    position: relative;
+    font-size: 20px;
+    background-color: #dae6e2;
+    margin-top: -8px;
+    margin-left: -7px;
+}
+  .con a img{
+    width: 434px;
+    height: 135px;
+  }
+
+  .con p{
+    margin-left: 750px;
+    float: left;
+    margin-top: -70px;
+    font-family: '仿宋';
+    position: relative;
+  }
+  
+  .box1{
+    width: 1263px;
+    height: 500px;
+    float: left;
+    margin-left: -8px;
+    margin-top: -21px;
+    /* background-color: rgb(240, 234, 240); */
+  }
+
+  .layui-fluid{
+    margin-left: 245px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    width: 775px;
+    height: 420px;
+    background: url(../images/dlbj.jpg);
+  }
+  
+  .layui-row{
+      margin-left: 265px;
+      line-height: 3;
+  }
+  
+  .layui-form{
+    margin-top: 70px;
+  } 
+
+  .layui-form-label{
+    float: left;
+    display: block;
+    padding: 3px 15px;
+    width: 90px;
+    font-weight: 400px;
+    line-height: 20px;
+    text-align: right;
+    margin-left: -110px;
+    margin-top: 13px;
+    font-size: 20px;
+}
+
+.x-red {
+    color: red;
+}
+
+.layui-input-inline input[type=text]{
+  width: 235px;
+  height: 21px;
+}
+
+.layui-input-inline input[type=password]{
+  width: 235px;
+  height: 21px;
+}
+
+.layui-form-item button{
+  width: 65px;
+  height: 30px;
+  font-size: 15px;
+  color: brown;
+  margin-left: 175px;
+}
+
+
+.db{
+  width: 1263px;
+  height: 270px;
+  margin-top: 480px;
+  background-color: #def0ea;
+}
+
+.db .b1{
+   width: 420px;
+    height: 30px;
+    float: left;
+    margin-top: 26px;
+    margin-left: 245px;
+    font-size: 19px;
+    font-family: "宋体";
+    text-decoration: none;
+}
+.db .b1 a{
+  color: #575555;
+}
+.db .b1 a:hover{
+  color: #c25f5f;
+}
+
+.db .gy{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: 55px;
+  margin-left: -380px;
+  font-family: "仿宋";
+}
+.db .gy a{
+  color: #575555;
+}
+.db .gy a:hover{
+  color: #ce8b8b;
+}
+.db .b2{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -60px;
+  margin-left: 508px;
+  font-size: 19px;
+  font-family: "宋体";
+}
+.db .b2 a{
+  color: #575555;
+}
+.db .b2 a:hover{
+  color: #c25f5f;
+}
+.db .yh{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -32px;
+  margin-left: 515px;
+  font-family: "仿宋";
+}
+.db .yh a{
+  color: #575555;
+}
+.db .yh a:hover{
+  color: #ce8b8b;
+}
+
+.db .b3{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -60px;
+  margin-left: 712px;
+  font-size: 19px;
+  font-family: "宋体";
+}
+.db .b3 a{
+  color: #575555;
+}
+.db .b3 a:hover{
+  color: #c25f5f;
+}
+.db .cs{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -33px;
+  margin-left: 710px;
+  font-family: "仿宋";
+}
+.db .cs a{
+  color: #575555;
+}
+.db .cs a:hover{
+  color: #ce8b8b;
+}
+.db .b4{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -60px;
+  margin-left: 900px;
+  font-size: 19px;
+  font-family: "宋体";
+}
+.db .b4 a{
+  color: #575555;
+}
+.db .b4 a:hover{
+  color: #c25f5f;
+}
+.db .mj{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -33px;
+  margin-left: 905px;
+  font-family: "仿宋";
+}
+.db .mj a{
+  color: #575555;
+}
+.db .mj a:hover{
+  color: #ce8b8b;
+}
+.db p{
+  float: left;
+  margin-top: 120px;
+  margin-left: 337px;
+  font-size: 17px;
+  color: #3e3e3e;
+} 
+
+a{
+  text-decoration: none;
+}
+li{
+  list-style-type: none;
+}

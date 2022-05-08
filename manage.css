@@ -1,0 +1,59 @@
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.bbox1{
+    width: 1264px;
+    margin: 0 auto;
+  }
+  .con {
+    width: 1263px;
+    height: 119px;
+    position: relative;
+    font-size: 20px;
+    background-color: #dae6e2;
+  }
+  .con a img{
+    width: 434px;
+    height: 135px;
+  }
+  .con p{
+    margin-left: 840px;
+    float: left;
+    margin-top: -110px;
+    font-family: '仿宋';
+    position: relative;
+  }
+  .fh{
+    margin-top: -60px;
+    float: right;
+    margin-right: 45px;
+}
+.fh a{
+    font-size: 18px;
+    color: #947171;
+    font-family: cursive;
+}
+.yc {
+  width: 200px;
+  height: 45px;
+  float: right;
+  margin-top: -60px;
+  margin-right: 15px;
+}
+.yc a{
+  color: rgb(80, 52, 52);
+  font-family: unset;
+}
+.yc .layui-nav-more{
+    border-style: solid dashed dashed;
+    border-color: #fff transparent transparent;
+    width: 0;
+    height: 0;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 3px;
+    border-width: 9px;
+}

@@ -1,0 +1,328 @@
+.bbox1{
+  width: 1264px;
+  margin: 0 auto;
+  background-color: rgb(238, 250, 255);
+}
+.con {
+    width: 1263px;
+    height: 119px;
+    position: relative;
+    font-size: 20px;
+    background-color: #dae6e2;
+    margin-top: -8px;
+
+}
+  .con a img{
+    width: 434px;
+    height: 135px;
+  }
+
+  .con p{
+    margin-left: 750px;
+    float: left;
+    margin-top: -70px;
+    font-family: '仿宋';
+    position: relative;
+  }
+
+.zt{
+    width: 780px;
+    height: 410px;
+    padding-top: 10px;
+    margin: 50px auto;
+    background-color: rgb(255, 250, 234);
+    border-radius: 20px;
+    border: 2px solid #cecbcb;
+}
+.zt h2{
+    margin-left: 320px;
+}
+.zh{
+    margin-top: 43px;
+    height: 65px;
+    margin-left: 180px;
+}
+.zh input{
+    width: 300px;
+    height: 25px;
+   
+}
+.box{
+    height: 65px;
+    margin-left: -20px;
+}
+.box input{
+    width: 300px;
+    height: 25px;
+}
+.box span{
+   width: 10px;
+   text-align: right;
+   margin-left: 200px;
+}
+.but{
+    margin-top: 5px;
+    margin-left: 325px;
+}
+.but input[type=button]{
+    width:67%;
+    height: 40px;
+    margin-left: -90px;
+    margin-top: -7px;
+    display: inline-block;
+    font-size: 18px;
+    color: #faf5f5;
+    background-color: #f09f53;
+    border-radius: 2px;
+    border: none;
+}
+.zc{
+    margin-top: 5px;
+    margin-left: 325px;
+}
+.zc input[type=button]{
+    width:67%;
+    height: 40px;
+    margin-left: -90px;
+    margin-top: 26px;
+    display: inline-block;
+    color: #e7ab83;
+    background-color: white;
+    border-radius: 2px;
+    border: silver;
+}
+.zc ul{
+   top: 385px;
+   margin-left: 105px;
+   position: absolute;
+}
+.zc li{
+  font-size: 10px;
+  float: left;
+  margin-left: 20px;
+  list-style: none;
+}
+.zc ul a{
+   text-decoration: none;
+   color: rgb(83, 80, 80);
+}
+.zc ul a:hover{
+  color: rgb(101, 136, 170);
+}   
+.zt h2{
+    margin-left: 320px;
+}
+.zh{
+    margin-top: 43px;
+    height: 65px;
+    margin-left: 180px;
+}
+.zh input{
+    width: 300px;
+    height: 25px;
+   
+}
+.box{
+    height: 65px;
+    margin-left: -20px;
+}
+.box input{
+    width: 300px;
+    height: 25px;
+}
+.box span{
+   width: 10px;
+   text-align: right;
+   margin-left: 200px;
+}
+.but{
+    margin-top: 5px;
+    margin-left: 325px;
+}
+.but input[type=button]{
+    width:67%;
+    height: 40px;
+    margin-left: -90px;
+    margin-top: -7px;
+    display: inline-block;
+    font-size: 18px;
+    color: #faf5f5;
+    background-color: #f09f53;
+    border-radius: 2px;
+    border: none;
+}
+.zc{
+    margin-top: 5px;
+    margin-left: 325px;
+}
+.zc input[type=button]{
+    width:67%;
+    height: 40px;
+    margin-left: -90px;
+    margin-top: 26px;
+    display: inline-block;
+    color: #e7ab83;
+    background-color: white;
+    border-radius: 2px;
+    border: silver;
+}
+.zc ul{
+   top: 385px;
+   margin-left: 105px;
+   position: absolute;
+}
+.zc li{
+  font-size: 10px;
+  float: left;
+  margin-top: 125px;
+  margin-left: 20px;
+  list-style: none;
+}
+.zc ul a{
+   text-decoration: none;
+   color: rgb(83, 80, 80);
+}
+.zc ul a:hover{
+  color: rgb(101, 136, 170);
+}
+
+.db{
+  width: 1263px;
+  height: 270px;
+  margin-top: 30px;
+  background-color: #def0ea;
+}
+
+.db .b1{
+   width: 420px;
+    height: 30px;
+    float: left;
+    margin-top: 26px;
+    margin-left: 245px;
+    font-size: 19px;
+    font-family: "宋体";
+    text-decoration: none;
+}
+.db .b1 a{
+  color: #575555;
+}
+.db .b1 a:hover{
+  color: #c25f5f;
+}
+
+.db .gy{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: 55px;
+  margin-left: -380px;
+  font-family: "仿宋";
+}
+.db .gy a{
+  color: #575555;
+}
+.db .gy a:hover{
+  color: #ce8b8b;
+}
+.db .b2{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -60px;
+  margin-left: 508px;
+  font-size: 19px;
+  font-family: "宋体";
+}
+.db .b2 a{
+  color: #575555;
+}
+.db .b2 a:hover{
+  color: #c25f5f;
+}
+.db .yh{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -32px;
+  margin-left: 515px;
+  font-family: "仿宋";
+}
+.db .yh a{
+  color: #575555;
+}
+.db .yh a:hover{
+  color: #ce8b8b;
+}
+
+.db .b3{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -60px;
+  margin-left: 712px;
+  font-size: 19px;
+  font-family: "宋体";
+}
+.db .b3 a{
+  color: #575555;
+}
+.db .b3 a:hover{
+  color: #c25f5f;
+}
+.db .cs{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -33px;
+  margin-left: 710px;
+  font-family: "仿宋";
+}
+.db .cs a{
+  color: #575555;
+}
+.db .cs a:hover{
+  color: #ce8b8b;
+}
+.db .b4{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -60px;
+  margin-left: 900px;
+  font-size: 19px;
+  font-family: "宋体";
+}
+.db .b4 a{
+  color: #575555;
+}
+.db .b4 a:hover{
+  color: #c25f5f;
+}
+.db .mj{
+  width: 420px;
+  height: 30px;
+  float: left;
+  margin-top: -33px;
+  margin-left: 905px;
+  font-family: "仿宋";
+}
+.db .mj a{
+  color: #575555;
+}
+.db .mj a:hover{
+  color: #ce8b8b;
+}
+.db p{
+  float: left;
+  margin-top: 120px;
+  margin-left: 337px;
+  font-size: 17px;
+  color: #3e3e3e;
+} 
+  
+  a{
+    text-decoration: none;
+  }
+  li{
+    list-style-type: none;
+  }
